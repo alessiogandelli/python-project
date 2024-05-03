@@ -1,5 +1,11 @@
 # Template project Python Data Science using poetry
 
+!!!
+this is a project template, you can use this template clicking on the green button "use this template" on the top right of the page, this will create your repo with this structure 
+!!!
+
+
+
 install poetry [here](https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 
